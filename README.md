@@ -7,7 +7,7 @@ I am..
 
 Current courses: ✔️ = finished
 - Embedded Systems.
-- Digital Technologies.     ✔️
-- Linear Algebra & Analysis ✔️
-- Medicine & Medical Technologies
-- Engineering principles & Methodologies ✔️
+- Digital Technologies.✔️
+- Linear Algebra & Analysis. ✔️
+- Medicine & Medical Technologies.
+- Engineering principles & Methodologies. ✔️

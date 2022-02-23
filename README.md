@@ -11,3 +11,15 @@ Current courses: ✔️ = finished
 - Linear Algebra & Analysis. ✔️
 - Medicine & Medical Technologies.
 - Engineering principles & Methodologies. ✔️
+
+Languages with proficiency:
+- C
+- C#
+- Matlab
+- Python
+- JS
+
+Languages I'd like to learn:
+- C++
+- Rust
+- Lua

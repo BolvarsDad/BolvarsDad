@@ -1,7 +1,7 @@
 # Hi, I’m Sinan
 I am..
 - 20 years old.
-- 🏫 Currently studying Biomedical Engineering at the KTH Royal Insitute of Technology in Stockholm, Sweden.
+- 🏫 Studied Biomedical Engineering at the KTH Royal Insitute of Technology in Stockholm, Sweden.<br>Currently enrolled at MDU reading Computer Science.
 - 💻 Interested in programming and maths.
 - 🩸 A blood donor.
 

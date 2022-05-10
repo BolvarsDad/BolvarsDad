@@ -1,7 +1,7 @@
 # Hello there.
 I am:
 - 20 years old.
-- 🏫 Studied Biomedical Engineering at the KTH Royal Insitute of Technology in Stockholm, Sweden.<br>Currently enrolled at MDU reading Computer Science.
+- Studied Biomedical Engineering at the KTH Royal Insitute of Technology in Stockholm, Sweden.<br>
 - 💻 Interested in too many things.
 - 🩸 A blood donor.
 

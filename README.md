@@ -5,14 +5,13 @@ I am:
 - 💻 Computer Science at MDU Mälardalens Högskola in Västerås, Sweden. <br>
 - 🩸 A blood donor.
 
-Languages with proficiency:
+Languages with high proficiency:
 - C
 - C#
 - Matlab
-- JS
+- Python
 
-Languages I'd like to learn:
+Languages I'd like to learn more in:
 - C++
 - Rust
 - Lua
-- Python

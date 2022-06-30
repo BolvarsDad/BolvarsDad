@@ -20,7 +20,8 @@ I am:
 [Morse Code Translator](https://github.com/BolvarsDad/morse-translator-C) <br>
 This translator traverses a binary tree to parse the morse code!
 
-[Brainfuck Interpreter](https://github.com/BolvarsDad/BrainFuck-Interpreter)
+[Brainfuck Interpreter](https://github.com/BolvarsDad/BrainFuck-Interpreter) <br>
+A first attempt at an interpreter, planning on writing many more in the future.
 [Moon Landing Simulation](https://github.com/BolvarsDad/lunar-descent) <br>
 More obscure than needed, due to university assignment requirements. <br>
 Plenty of comments explaining algorithms have been left for the reader.

@@ -21,7 +21,7 @@ I am:
 This translator traverses a binary tree to parse the morse code!
 
 [Brainfuck Interpreter](https://github.com/BolvarsDad/BrainFuck-Interpreter) <br>
-A first attempt at an interpreter, planning on writing many more in the future.
+A first attempt at an interpreter, planning on writing many more in the future. <br>
 [Moon Landing Simulation](https://github.com/BolvarsDad/lunar-descent) <br>
 More obscure than needed, due to university assignment requirements. <br>
 Plenty of comments explaining algorithms have been left for the reader.

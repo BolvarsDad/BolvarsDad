@@ -29,4 +29,7 @@ Plenty of comments explaining algorithms have been left for the reader.
 
 ## Currently Working on: <br>
 - Variable Size Sudoku Solver - Able to solve puzzles upwards of 256x256
-- BadOS - My first attempt as a functional "OS", written in RISC-V and C
+- BadOS - My first attempt as a functional "OS", written in RISC-V and C <br>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=BolvarsDad&theme=nord&show_icons=true&count_private=true) <br>
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=BolvarsDad&layout=compact)

@@ -29,3 +29,4 @@ Plenty of comments explaining algorithms have been left for the reader.
 
 ## Currently Working on: <br>
 - Variable Size Sudoku Solver - Able to solve puzzles upwards of 256x256
+- BadOS - My first attempt as a functional "OS", written in RISC-V and C

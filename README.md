@@ -2,7 +2,7 @@
 I am:
 - 20 years old.
 - 🧬 MSc Biomedical Engineering at the KTH Royal Insitute of Technology in Stockholm, Sweden.<br>
-- 💻 MSc Computer Science at MDU Mälardalens Universitet in Västerås, Sweden. <br>
+- 💻 MSc Computer Science at MDU Mälardalens University in Västerås, Sweden. <br>
 - 🩸 A blood donor.
 
 ## Languages with high proficiency:

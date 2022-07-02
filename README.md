@@ -33,5 +33,5 @@ Plenty of comments explaining algorithms have been left for the reader.
 
 ## Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=BolvarsDad&theme=nord&show_icons=true&count_private=true) <br>
+![Github stats](https://github-readme-stats.vercel.app/api?username=BolvarsDad&theme=nord&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=BolvarsDad&layout=compact&theme=nord)

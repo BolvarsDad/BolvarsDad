@@ -12,7 +12,7 @@ I am:
 - Python
 
 ## Languages I'd like to learn more in:
-- C++
+- Julia
 - Rust
 - Lua
 

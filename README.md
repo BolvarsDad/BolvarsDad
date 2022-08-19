@@ -1,7 +1,8 @@
 # Hello there.
 I am:
 - 20 years old.
-- 💻 MSc Applied AI at MDU Mälardalens University in Västerås, Sweden. 2022 - 2027 <br>
+- 💻 Studying MSc in Applied AI at MDU Mälardalens University in Västerås, Sweden. 2022 - 2027 <br>
+- 🧬 Previously studied MSc in Biomedical Engineering at KTH Royal Institute of Technology. 2021 - 2022 <br>
 - 🩸 A blood donor.
 
 ## Languages with high proficiency:

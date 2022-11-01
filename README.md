@@ -7,14 +7,15 @@ I am:
 
 ## Languages with high proficiency:
 - C
-- C#
 - Matlab
 - Python
+- R
 
 ## Languages I'd like to learn more in:
 - Julia
 - Rust
 - Lua
+- C++
 
 ## Notable projects: <br>
 [Morse Code Translator](https://github.com/BolvarsDad/morse-translator-C) <br>

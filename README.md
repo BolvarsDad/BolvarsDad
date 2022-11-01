@@ -1,9 +1,9 @@
 # Hello there.
-I am:
+Here's me:
 - 20 years old.
 - 💻 Studying a BSc in Applied AI<br>
 - 🧬 Previously studied a MSc in Biomedical Engineering<br>
-- 🩸 A blood donor.
+- 🩸 Blood donor.
 
 ## Languages with high proficiency:
 - C

@@ -2,7 +2,7 @@
 Here's me:
 - 20 years old.
 - 💻 Studying a BSc in Applied AI<br>
-- 🧬 Previously studied a MSc in Biomedical Engineering<br>
+- 🧬 Previously studied Biomedical Engineering<br>
 - 🩸 Blood donor.
 
 ## Languages with high proficiency:

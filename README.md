@@ -27,7 +27,8 @@ This translator traverses a binary tree to parse the morse code!
 
 ## Interests: <br>
 - 🦾 Mechanical & Electrical engineering <br>
-- 🧬 Medical CS Applications
+- 🧬 Medical CS Applications <br>
+- 💻 Programming & Computing
 
 ## Stats:
 

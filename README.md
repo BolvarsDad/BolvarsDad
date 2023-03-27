@@ -1,6 +1,6 @@
 # Hello there.
 Here's me:
-- 20 years old.
+- 21 years old.
 - 💻 Studying a BSc in Computer Science with focus on applied AI<br>
 - 🧬 Previously studied Biomedical Engineering at KTH<br>
 - 🩸 Blood donor.
@@ -14,7 +14,7 @@ Here's me:
 - Julia
 - Rust
 - Lua
-- C++SE
+- C++
 
 ## Notable projects: <br>
 [Morse Code Translator](https://github.com/BolvarsDad/morse-translator-C) <br>

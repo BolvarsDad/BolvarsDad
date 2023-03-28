@@ -21,9 +21,8 @@ Here's me:
 This translator traverses a binary tree to parse the morse code!
 
 ## Currently Working on: <br>
-- Variable Size Sudoku Solver in C - Able to solve puzzles upwards of 256x256
-- BadOS - My first attempt as a functional "OS", written in RISC-V and C
-- Learning the ARM architecture <br>
+- Learning the ARM & MIPS architecture <br>
+- Starcraft Deep Learning Model (SCDLM), an AI built on a model-based deep reinforcement learning approach to play Starcraft 2.
 
 ## Interests: <br>
 - 🦾 Mechanical & Electrical engineering <br>

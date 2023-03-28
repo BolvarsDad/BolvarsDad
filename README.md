@@ -2,19 +2,16 @@
 Here's me:
 - 21 years old.
 - 💻 Studying a BSc in Computer Science with focus on applied AI<br>
-- 🧬 Previously studied Biomedical Engineering at KTH<br>
-- 🩸 Blood donor.
+- 🧬 Previously studied a MSc in Biomedical Engineering at KTH<br>
 
-## Languages with high proficiency:
-- C
-- Javascript
-- Python
+## Technologies
+<p>
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+</p>
 
-## Languages I'd like to learn more in:
-- Julia
-- Rust
-- Lua
-- C++
+## Languages
 
 ## Notable projects: <br>
 [Morse Code Translator](https://github.com/BolvarsDad/morse-translator-C) <br>
@@ -28,7 +25,6 @@ This translator traverses a binary tree to parse the morse code!
 - 🦾 Mechanical & Electrical engineering <br>
 - ✏️ Mathematics & Physics <br>
 - 📚 Reading <br>
-- 🧬 Medical CS Applications <br>
 - 💻 Programming & Computing
 
 ## Stats:

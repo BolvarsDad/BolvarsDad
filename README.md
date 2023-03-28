@@ -11,8 +11,6 @@ Here's me:
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
 </p>
 
-## Languages
-
 ## Notable projects: <br>
 [Morse Code Translator](https://github.com/BolvarsDad/morse-translator-C) <br>
 This translator traverses a binary tree to parse the morse code!

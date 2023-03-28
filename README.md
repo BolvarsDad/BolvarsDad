@@ -13,7 +13,12 @@ Here's me:
 
 ## Notable projects: <br>
 [Morse Code Translator](https://github.com/BolvarsDad/morse-translator-C) <br>
-This translator traverses a binary tree to parse the morse code!
+This translator traverses a binary tree to parse the morse code. <br>
+[Weird calculator](https://github.com/BolvarsDad/WeirdCalculator) <br>
+Fully functional text-based arithmetic calculator. <br>
+[Game of Life](https://github.com/BolvarsDad/Game-of-Life) <br>
+Game of Life Cellular Automata in C# Windows Forms.
+
 
 ## Currently Working on: <br>
 - Learning the ARM & MIPS architecture <br>

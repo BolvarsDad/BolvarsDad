@@ -12,12 +12,11 @@ Here's me:
 </p>
 
 ## Notable projects: <br>
-[Morse Code Translator](https://github.com/BolvarsDad/morse-translator-C) <br>
-This translator traverses a binary tree to parse the morse code. <br>
-[Weird calculator](https://github.com/BolvarsDad/WeirdCalculator) <br>
-Fully functional text-based arithmetic calculator. <br>
-[Game of Life](https://github.com/BolvarsDad/Game-of-Life) <br>
-Game of Life Cellular Automata in C# Windows Forms.
+| Name | Description | Time taken |
+| :--- | :--- | :--- |
+| [Morse Code Translator](https://github.com/BolvarsDad/morse-translator-C) | This translator traverses a binary tree to parse the morse code. | ~1 week |
+| [Weird calculator](https://github.com/BolvarsDad/WeirdCalculator) | Fully functional text-based arithmetic calculator. | ~1 day |
+| [Game of Life](https://github.com/BolvarsDad/Game-of-Life) | Game of Life Cellular Automata in C# Windows Forms. | ~1 month |
 
 
 ## Currently Working on: <br>

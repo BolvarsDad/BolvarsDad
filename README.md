@@ -18,10 +18,14 @@ Here's me:
 | [Weird calculator](https://github.com/BolvarsDad/WeirdCalculator) | Fully functional text-based arithmetic calculator. | ~1 day |
 | [Game of Life](https://github.com/BolvarsDad/Game-of-Life) | Game of Life Cellular Automata in C# Windows Forms. | ~1 month |
 
-
 ## Currently Working on: <br>
 - Learning the ARM & MIPS architecture <br>
 - Starcraft Deep Learning Model (SCDLM), an AI built on a model-based deep reinforcement learning approach to play Starcraft 2.
+
+## Currently reading: <br>
+| Name | Author | Progress |
+| :--- | :--- | :--- |
+| [Operating Systems: An Introduction](https://www.amazon.com/Operating-Systems-Introduction-R-Garg/dp/1942270380) | R. Garg / G. Verma | 157/305 |
 
 ## Interests: <br>
 - 🦾 Mechanical & Electrical engineering <br>

@@ -29,6 +29,8 @@ Find me here: <br>
 | Name | Author | Progress |
 | :--- | :--- | :--- |
 | [Operating Systems: An Introduction](https://www.amazon.com/Operating-Systems-Introduction-R-Garg/dp/1942270380) | R. Garg / G. Verma | 157/305 |
+| [Artificial Intelligence: A Modern Approach](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597)) | Stuart Russel | 0/1136 |
+| [Computer Networking: A Systems Approach](https://www.amazon.com/Computer-Networks-Approach-Kaufmann-Networking/dp/0128182008/ref=sr_1_1?crid=BFQE2EHB0W09&keywords=computer+networks+a+systems+approach&qid=1680103399&s=books&sprefix=computer+networks+a+systems+approa%2Cstripbooks-intl-ship%2C152&sr=1-1)) | Larry L. Peterson / Bruce S. Davie | 0/848 |
 
 ## Interests: <br>
 - 🦾 Mechanical & Electrical engineering <br>

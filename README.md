@@ -4,7 +4,7 @@ Here's me:
 - 💻 Studying a BSc in Computer Science with focus on applied AI<br>
 - 🧬 Previously studied a MSc in Biomedical Engineering at KTH<br>
 
-Find me here:
+Find me here: <br>
 [![Linkedin: sinanpasic](https://img.shields.io/badge/-sinanpasic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sinanpasic/)](https://www.linkedin.com/in/sinanpasic/)
 
 ## Technologies

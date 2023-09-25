@@ -15,11 +15,12 @@ Find me here: <br>
 </p>
 
 ## Notable projects: <br>
-| Name | Description | Time taken |
-| :--- | :--- | :--- |
-| [Morse Code Translator](https://github.com/BolvarsDad/morse-translator-C) | This translator traverses a binary tree to parse the morse code. | ~1 week |
-| [Weird calculator](https://github.com/BolvarsDad/WeirdCalculator) | Fully functional text-based arithmetic calculator. | ~1 day |
-| [Game of Life](https://github.com/BolvarsDad/Game-of-Life) | Game of Life Cellular Automata in C# Windows Forms. | ~1 month |
+| Name | Description | Time taken | Language |
+| :--- | :--- | :--- | :--- |
+| [Morse Code Translator](https://github.com/BolvarsDad/morse-translator-C) | This translator traverses a binary tree to parse the morse code. | ~1 week | C |
+| [Weird calculator](https://github.com/BolvarsDad/WeirdCalculator) | Fully functional text-based arithmetic calculator. | ~1 day | C |
+| [Game of Life](https://github.com/BolvarsDad/Game-of-Life) | Game of Life Cellular Automata in C# Windows Forms. | ~1 month | C# |
+| [Sudoku Solver](https://github.com/BolvarsDad/sudoku) | Sudoku Solver that uses bitwise operations on an 81-cell array. | ~2 weeks | C |
 
 ## Currently Working on: <br>
 - Learning the ARM & MIPS architecture <br>

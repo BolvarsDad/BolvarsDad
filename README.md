@@ -24,8 +24,8 @@ Find me here: <br>
 | [Sudoku Solver](https://github.com/BolvarsDad/sudoku) | Sudoku Solver that uses bitwise operations on an 81-cell array. | ~2 weeks | C |
 
 ## Currently Working on: <br>
-- Learning the ARM & MIPS architecture <br>
 - Starcraft Deep Learning Model (SCDLM), an AI built on a model-based deep reinforcement learning approach to play Starcraft 2.
+- [Warbreaker.gg](https://warbreaker.gg/): A website compiling up-to-date information, simulations, and theorycrafting on the Warrior class in World of Warcraft.
 
 ## Currently reading: <br>
 | Name | Author | Progress |

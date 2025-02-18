@@ -1,8 +1,9 @@
 # Hello there.
 Here's me:
-- 22 years old.
+- 23 years old.
 - 💻 Studied a BSc in Computer Science with focus on applied AI<br>
-- 🧬 Studied a MSc in Biomedical Engineering at KTH<br>
+- 🧬 Studied a MSc in Biomedical Engineering at KTH, Stockholm<br>
+- My main area of interest is machine learning and using math to write more efficient and high-performant software.
 
 Find me here: <br>
 [![Linkedin: sinanpasic](https://img.shields.io/badge/-sinanpasic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sinanpasic/)](https://www.linkedin.com/in/sinanpasic/)
